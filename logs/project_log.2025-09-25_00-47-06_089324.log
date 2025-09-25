@@ -1,0 +1,10 @@
+2025-09-25 00:47:05 | INFO | Message received from author: Charlie
+2025-09-25 00:47:05 | INFO | Updated author counts: {'Charlie': 19, 'Alice': 13, 'Eve': 12, 'Bob': 9}
+2025-09-25 00:47:06 | INFO | Chart updated successfully for message: {"message": "I just loved a movie! It was boring.", "author": "Charlie"}
+
+2025-09-25 00:47:09 | INFO | Processed JSON message: {'message': 'I just tried a story! It was boring.', 'author': 'Alice'}
+2025-09-25 00:47:09 | INFO | Message received from author: Alice
+2025-09-25 00:47:09 | INFO | Updated author counts: {'Charlie': 19, 'Alice': 14, 'Eve': 12, 'Bob': 9}
+2025-09-25 00:47:09 | INFO | Chart updated successfully for message: {"message": "I just tried a story! It was boring.", "author": "Alice"}
+
+2025-09-25 00:47:09 | INFO | Consumer interrupted by user.

@@ -1,0 +1,42 @@
+[
+  {
+    "patient_id": "P001",
+    "hospital": "Green Valley Hospital",
+    "department": "Radiology",
+    "expense_type": "MRI",
+    "cost": 1200.50,
+    "timestamp": "2025-09-27T10:01:00Z"
+  },
+  {
+    "patient_id": "P002",
+    "hospital": "Green Valley Hospital",
+    "department": "Emergency",
+    "expense_type": "ER Visit",
+    "cost": 850.00,
+    "timestamp": "2025-09-27T10:02:30Z"
+  },
+  {
+    "patient_id": "P003",
+    "hospital": "Sunrise Clinic",
+    "department": "Cardiology",
+    "expense_type": "ECG",
+    "cost": 300.00,
+    "timestamp": "2025-09-27T10:03:45Z"
+  },
+  {
+    "patient_id": "P004",
+    "hospital": "Sunrise Clinic",
+    "department": "Surgery",
+    "expense_type": "Appendectomy",
+    "cost": 5000.00,
+    "timestamp": "2025-09-27T10:05:00Z"
+  },
+  {
+    "patient_id": "P005",
+    "hospital": "Green Valley Hospital",
+    "department": "Radiology",
+    "expense_type": "X-ray",
+    "cost": 200.00,
+    "timestamp": "2025-09-27T10:06:15Z"
+  }
+]

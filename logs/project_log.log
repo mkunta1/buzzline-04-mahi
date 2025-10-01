@@ -1,30 +1,169 @@
-2025-09-25 00:47:08 | INFO | {'message': 'I just tried a story! It was boring.', 'author': 'Alice'}
-2025-09-25 00:47:11 | INFO | {'message': 'I just found a story! It was amazing.', 'author': 'Eve'}
-2025-09-25 00:47:14 | INFO | {'message': 'I just found a movie! It was amazing.', 'author': 'Eve'}
-2025-09-25 00:47:17 | INFO | {'message': 'I just tried a trick! It was amazing.', 'author': 'Bob'}
-2025-09-25 00:47:20 | INFO | {'message': 'I just found a meme! It was boring.', 'author': 'Charlie'}
-2025-09-25 00:47:23 | INFO | {'message': 'I just tried a story! It was exciting.', 'author': 'Charlie'}
-2025-09-25 00:47:26 | INFO | {'message': 'I just tried an app! It was funny.', 'author': 'Charlie'}
-2025-09-25 00:47:29 | INFO | {'message': 'I just found a meme! It was exciting.', 'author': 'Charlie'}
-2025-09-25 00:47:36 | INFO | {'message': 'I just shared an app! It was exciting.', 'author': 'Eve'}
-2025-09-25 00:47:39 | INFO | {'message': 'I just shared a meme! It was funny.', 'author': 'Eve'}
-2025-09-25 00:47:42 | INFO | {'message': 'I just loved an app! It was amazing.', 'author': 'Alice'}
-2025-09-25 00:47:45 | INFO | {'message': 'I just tried an app! It was boring.', 'author': 'Alice'}
-2025-09-25 00:47:48 | INFO | {'message': 'I just saw an app! It was amazing.', 'author': 'Charlie'}
-2025-09-25 00:47:51 | INFO | {'message': 'I just tried a movie! It was weird.', 'author': 'Bob'}
-2025-09-25 00:47:54 | INFO | {'message': 'I just saw an app! It was boring.', 'author': 'Eve'}
-2025-09-25 00:47:57 | INFO | {'message': 'I just tried a trick! It was amazing.', 'author': 'Bob'}
-2025-09-25 00:48:00 | INFO | {'message': 'I just saw a trick! It was funny.', 'author': 'Eve'}
-2025-09-25 00:48:03 | INFO | {'message': 'I just found a trick! It was boring.', 'author': 'Bob'}
-2025-09-25 00:48:06 | INFO | {'message': 'I just shared an app! It was exciting.', 'author': 'Alice'}
-2025-09-25 00:48:11 | INFO | {'message': 'I just saw a movie! It was weird.', 'author': 'Eve'}
-2025-09-25 00:48:14 | INFO | {'message': 'I just shared a movie! It was funny.', 'author': 'Eve'}
-2025-09-25 00:48:17 | INFO | {'message': 'I just tried an app! It was weird.', 'author': 'Eve'}
-2025-09-25 00:48:20 | INFO | {'message': 'I just shared a movie! It was amazing.', 'author': 'Alice'}
-2025-09-25 00:48:23 | INFO | {'message': 'I just tried a movie! It was boring.', 'author': 'Charlie'}
-2025-09-25 00:48:26 | INFO | {'message': 'I just shared a meme! It was exciting.', 'author': 'Eve'}
-2025-09-25 00:48:29 | INFO | {'message': 'I just shared a meme! It was amazing.', 'author': 'Alice'}
-2025-09-25 00:48:32 | INFO | {'message': 'I just shared an app! It was weird.', 'author': 'Bob'}
-2025-09-25 00:48:35 | INFO | {'message': 'I just saw an app! It was funny.', 'author': 'Alice'}
-2025-09-25 00:48:38 | INFO | {'message': 'I just saw a story! It was weird.', 'author': 'Eve'}
-2025-09-25 00:48:41 | INFO | {'message': 'I just shared a story! It was weird.', 'author': 'Bob'}
+2025-09-25 01:17:12 | INFO | Updated author counts: {'Bob': 23, 'Eve': 29, 'Charlie': 23, 'Diana': 37, 'Alice': 32}
+2025-09-25 01:17:12 | INFO | Chart updated successfully for message: {"message": "This is a buzz message.", "author": "Eve"}
+2025-09-25 01:17:12 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Eve'}
+2025-09-25 01:17:12 | INFO | Message received from author: Eve
+2025-09-25 01:17:12 | INFO | Updated author counts: {'Bob': 23, 'Eve': 30, 'Charlie': 23, 'Diana': 37, 'Alice': 32}
+2025-09-25 01:17:12 | INFO | Chart updated successfully for message: {"message": "I love Python!", "author": "Eve"}
+2025-09-25 01:17:12 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Alice'}
+2025-09-25 01:17:12 | INFO | Message received from author: Alice
+2025-09-25 01:17:12 | INFO | Updated author counts: {'Bob': 23, 'Eve': 30, 'Charlie': 23, 'Diana': 37, 'Alice': 33}
+2025-09-25 01:17:12 | INFO | Chart updated successfully for message: {"message": "Buzz messages for everyone.", "author": "Alice"}
+2025-09-25 01:17:12 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Alice'}
+2025-09-25 01:17:12 | INFO | Message received from author: Alice
+2025-09-25 01:17:12 | INFO | Updated author counts: {'Bob': 23, 'Eve': 30, 'Charlie': 23, 'Diana': 37, 'Alice': 34}
+2025-09-25 01:17:12 | INFO | Chart updated successfully for message: {"message": "This is a buzz message.", "author": "Alice"}
+2025-09-25 01:17:12 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Diana'}
+2025-09-25 01:17:12 | INFO | Message received from author: Diana
+2025-09-25 01:17:12 | INFO | Updated author counts: {'Bob': 23, 'Eve': 30, 'Charlie': 23, 'Diana': 38, 'Alice': 34}
+2025-09-25 01:17:13 | INFO | Chart updated successfully for message: {"message": "Data engineering is my passion.", "author": "Diana"}
+2025-09-25 01:17:13 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Eve'}
+2025-09-25 01:17:13 | INFO | Message received from author: Eve
+2025-09-25 01:17:13 | INFO | Updated author counts: {'Bob': 23, 'Eve': 31, 'Charlie': 23, 'Diana': 38, 'Alice': 34}
+2025-09-25 01:17:13 | INFO | Chart updated successfully for message: {"message": "I love Python!", "author": "Eve"}
+2025-09-25 01:17:13 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Charlie'}
+2025-09-25 01:17:13 | INFO | Message received from author: Charlie
+2025-09-25 01:17:13 | INFO | Updated author counts: {'Bob': 23, 'Eve': 31, 'Charlie': 24, 'Diana': 38, 'Alice': 34}
+2025-09-25 01:17:13 | INFO | Chart updated successfully for message: {"message": "JSON makes life easier.", "author": "Charlie"}
+2025-09-25 01:17:13 | INFO | Processed JSON message: {'message': 'Have a great day!', 'author': 'Bob'}
+2025-09-25 01:17:13 | INFO | Message received from author: Bob
+2025-09-25 01:17:13 | INFO | Updated author counts: {'Bob': 24, 'Eve': 31, 'Charlie': 24, 'Diana': 38, 'Alice': 34}
+2025-09-25 01:17:13 | INFO | Chart updated successfully for message: {"message": "Have a great day!", "author": "Bob"}
+2025-09-25 01:17:16 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Alice'}
+2025-09-25 01:17:16 | INFO | Message received from author: Alice
+2025-09-25 01:17:16 | INFO | Updated author counts: {'Bob': 24, 'Eve': 31, 'Charlie': 24, 'Diana': 38, 'Alice': 35}
+2025-09-25 01:17:16 | INFO | Chart updated successfully for message: {"message": "Data engineering is my passion.", "author": "Alice"}
+2025-09-25 01:17:19 | INFO | Processed JSON message: {'message': 'Kafka is awesome.', 'author': 'Diana'}
+2025-09-25 01:17:19 | INFO | Message received from author: Diana
+2025-09-25 01:17:19 | INFO | Updated author counts: {'Bob': 24, 'Eve': 31, 'Charlie': 24, 'Diana': 39, 'Alice': 35}
+2025-09-25 01:17:19 | INFO | Chart updated successfully for message: {"message": "Kafka is awesome.", "author": "Diana"}
+2025-09-25 01:17:22 | INFO | Processed JSON message: {'message': 'Kafka is awesome.', 'author': 'Diana'}
+2025-09-25 01:17:22 | INFO | Message received from author: Diana
+2025-09-25 01:17:22 | INFO | Updated author counts: {'Bob': 24, 'Eve': 31, 'Charlie': 24, 'Diana': 40, 'Alice': 35}
+2025-09-25 01:17:22 | INFO | Chart updated successfully for message: {"message": "Kafka is awesome.", "author": "Diana"}
+2025-09-25 01:17:25 | INFO | Processed JSON message: {'message': 'Hello, Kafka world!', 'author': 'Bob'}
+2025-09-25 01:17:25 | INFO | Message received from author: Bob
+2025-09-25 01:17:25 | INFO | Updated author counts: {'Bob': 25, 'Eve': 31, 'Charlie': 24, 'Diana': 40, 'Alice': 35}
+2025-09-25 01:17:25 | INFO | Chart updated successfully for message: {"message": "Hello, Kafka world!", "author": "Bob"}
+2025-09-25 01:17:28 | INFO | Processed JSON message: {'message': 'Distributed systems are fascinating.', 'author': 'Diana'}
+2025-09-25 01:17:28 | INFO | Message received from author: Diana
+2025-09-25 01:17:28 | INFO | Updated author counts: {'Bob': 25, 'Eve': 31, 'Charlie': 24, 'Diana': 41, 'Alice': 35}
+2025-09-25 01:17:28 | INFO | Chart updated successfully for message: {"message": "Distributed systems are fascinating.", "author": "Diana"}
+2025-09-25 01:17:29 | WARNING | Consumer interrupted by user.
+2025-09-25 01:17:29 | INFO | Kafka consumer for topic 'buzzline_json' closed.
+2025-09-25 01:17:29 | INFO | END consumer for topic 'buzzline_json' and group 'buzz_group'.
+2025-09-25 01:17:56 | INFO | Logging to file: logs/project_log.log
+2025-09-25 01:17:56 | INFO | Log sanitization enabled, personal info removed
+2025-09-25 01:17:56 | INFO | START consumer.
+2025-09-25 01:17:56 | INFO | Kafka topic: smoker_csv
+2025-09-25 01:17:56 | INFO | Kafka consumer group id: smoker_group
+2025-09-25 01:17:56 | INFO | Rolling window size: 10
+2025-09-25 01:17:56 | INFO | Consumer: Topic 'smoker_csv' and group 'smoker_group'...
+2025-09-25 01:17:56 | INFO | Rolling window size: 10
+2025-09-25 01:17:56 | INFO | Kafka broker address: localhost:9092
+2025-09-25 01:17:56 | INFO | Creating Kafka consumer. Topic='smoker_csv' and group ID='smoker_group'.
+2025-09-25 01:17:56 | INFO | Kafka consumer created successfully.
+2025-09-25 01:17:56 | INFO | Polling messages from topic 'smoker_csv'...
+2025-09-25 01:18:00 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:17:43.033358', 'temperature': 132.4}
+2025-09-25 01:18:00 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:17:48.036272', 'temperature': 132.8}
+2025-09-25 01:18:00 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:17:53.039439', 'temperature': 133.2}
+2025-09-25 01:18:00 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:17:58.041630', 'temperature': 133.6}
+2025-09-25 01:18:03 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:18:03.042439', 'temperature': 134.0}
+2025-09-25 01:18:08 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:18:08.043802', 'temperature': 134.4}
+2025-09-25 01:18:13 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:18:13.051199', 'temperature': 134.8}
+2025-09-25 01:18:21 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:18:21.185718', 'temperature': 135.2}
+2025-09-25 01:18:26 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:18:26.188767', 'temperature': 135.6}
+2025-09-25 01:18:31 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:18:31.190154', 'temperature': 136.0}
+2025-09-25 01:18:36 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:18:36.191931', 'temperature': 136.4}
+2025-09-25 01:18:41 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:18:41.195258', 'temperature': 136.8}
+2025-09-25 01:18:46 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:18:46.196198', 'temperature': 137.2}
+2025-09-25 01:18:54 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:18:54.387099', 'temperature': 137.6}
+2025-09-25 01:18:59 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:18:59.388221', 'temperature': 138.0}
+2025-09-25 01:19:04 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:19:04.389461', 'temperature': 138.4}
+2025-09-25 01:19:09 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:19:09.390428', 'temperature': 138.8}
+2025-09-25 01:19:14 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:19:14.392069', 'temperature': 139.2}
+2025-09-25 01:19:19 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:19:19.393167', 'temperature': 139.6}
+2025-09-25 01:19:24 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:19:24.394036', 'temperature': 140.0}
+2025-09-25 01:19:32 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:19:32.608467', 'temperature': 140.4}
+2025-09-25 01:19:37 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:19:37.609989', 'temperature': 140.8}
+2025-09-25 01:19:42 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:19:42.612473', 'temperature': 141.2}
+2025-09-25 01:19:47 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:19:47.614200', 'temperature': 141.6}
+2025-09-25 01:19:52 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:19:52.616002', 'temperature': 142.0}
+2025-09-25 01:19:57 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:19:57.617503', 'temperature': 142.2}
+2025-09-25 01:20:05 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:20:05.846210', 'temperature': 142.0}
+2025-09-25 01:20:10 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:20:10.847934', 'temperature': 142.2}
+2025-09-25 01:20:15 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:20:15.848869', 'temperature': 142.0}
+2025-09-25 01:20:20 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:20:20.849673', 'temperature': 142.2}
+2025-09-25 01:20:25 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:20:25.851628', 'temperature': 142.0}
+2025-09-25 01:20:30 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:20:30.852374', 'temperature': 142.2}
+2025-09-25 01:20:39 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:20:39.116993', 'temperature': 142.0}
+2025-09-25 01:20:44 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:20:44.117778', 'temperature': 142.2}
+2025-09-25 01:20:44 | INFO | STALL DETECTED at 2025-09-25T05:20:44.117778: Temp stable at 142.2°F over last 10 readings.
+2025-09-25 01:20:49 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:20:49.118540', 'temperature': 142.0}
+2025-09-25 01:20:49 | INFO | STALL DETECTED at 2025-09-25T05:20:49.118540: Temp stable at 142.0°F over last 10 readings.
+2025-09-25 01:20:54 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:20:54.119380', 'temperature': 142.2}
+2025-09-25 01:20:54 | INFO | STALL DETECTED at 2025-09-25T05:20:54.119380: Temp stable at 142.2°F over last 10 readings.
+2025-09-25 01:20:59 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:20:59.120227', 'temperature': 142.0}
+2025-09-25 01:20:59 | INFO | STALL DETECTED at 2025-09-25T05:20:59.120227: Temp stable at 142.0°F over last 10 readings.
+2025-09-25 01:21:04 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:21:04.121530', 'temperature': 142.2}
+2025-09-25 01:21:04 | INFO | STALL DETECTED at 2025-09-25T05:21:04.121530: Temp stable at 142.2°F over last 10 readings.
+2025-09-25 01:21:09 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:21:09.125920', 'temperature': 142.0}
+2025-09-25 01:21:09 | INFO | STALL DETECTED at 2025-09-25T05:21:09.125920: Temp stable at 142.0°F over last 10 readings.
+2025-09-25 01:21:17 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:21:17.403832', 'temperature': 142.2}
+2025-09-25 01:21:17 | INFO | STALL DETECTED at 2025-09-25T05:21:17.403832: Temp stable at 142.2°F over last 10 readings.
+2025-09-25 01:21:22 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:21:22.404733', 'temperature': 142.0}
+2025-09-25 01:21:22 | INFO | STALL DETECTED at 2025-09-25T05:21:22.404733: Temp stable at 142.0°F over last 10 readings.
+2025-09-25 01:21:27 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:21:27.405872', 'temperature': 142.2}
+2025-09-25 01:21:27 | INFO | STALL DETECTED at 2025-09-25T05:21:27.405872: Temp stable at 142.2°F over last 10 readings.
+2025-09-25 01:21:32 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:21:32.407776', 'temperature': 142.0}
+2025-09-25 01:21:32 | INFO | STALL DETECTED at 2025-09-25T05:21:32.407776: Temp stable at 142.0°F over last 10 readings.
+2025-09-25 01:21:37 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:21:37.408822', 'temperature': 142.2}
+2025-09-25 01:21:37 | INFO | STALL DETECTED at 2025-09-25T05:21:37.408822: Temp stable at 142.2°F over last 10 readings.
+2025-09-25 01:21:42 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:21:42.409761', 'temperature': 142.0}
+2025-09-25 01:21:42 | INFO | STALL DETECTED at 2025-09-25T05:21:42.409761: Temp stable at 142.0°F over last 10 readings.
+2025-09-25 01:21:50 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:21:50.689207', 'temperature': 142.2}
+2025-09-25 01:21:50 | INFO | STALL DETECTED at 2025-09-25T05:21:50.689207: Temp stable at 142.2°F over last 10 readings.
+2025-09-25 01:21:55 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:21:55.690040', 'temperature': 142.0}
+2025-09-25 01:21:55 | INFO | STALL DETECTED at 2025-09-25T05:21:55.690040: Temp stable at 142.0°F over last 10 readings.
+2025-09-25 01:22:00 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:22:00.690947', 'temperature': 142.2}
+2025-09-25 01:22:01 | INFO | STALL DETECTED at 2025-09-25T05:22:00.690947: Temp stable at 142.2°F over last 10 readings.
+2025-09-25 01:22:05 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:22:05.692228', 'temperature': 142.0}
+2025-09-25 01:22:05 | INFO | STALL DETECTED at 2025-09-25T05:22:05.692228: Temp stable at 142.0°F over last 10 readings.
+2025-09-25 01:22:10 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:22:10.693470', 'temperature': 142.2}
+2025-09-25 01:22:10 | INFO | STALL DETECTED at 2025-09-25T05:22:10.693470: Temp stable at 142.2°F over last 10 readings.
+2025-09-25 01:22:15 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:22:15.694395', 'temperature': 142.0}
+2025-09-25 01:22:15 | INFO | STALL DETECTED at 2025-09-25T05:22:15.694395: Temp stable at 142.0°F over last 10 readings.
+2025-09-25 01:22:20 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:22:20.695160', 'temperature': 142.2}
+2025-09-25 01:22:20 | INFO | STALL DETECTED at 2025-09-25T05:22:20.695160: Temp stable at 142.2°F over last 10 readings.
+2025-09-25 01:22:28 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:22:28.979621', 'temperature': 142.0}
+2025-09-25 01:22:29 | INFO | STALL DETECTED at 2025-09-25T05:22:28.979621: Temp stable at 142.0°F over last 10 readings.
+2025-09-25 01:22:33 | INFO | Processed JSON message: {'timestamp': '2025-09-25T05:22:33.980609', 'temperature': 142.2}
+2025-09-25 01:22:34 | INFO | STALL DETECTED at 2025-09-25T05:22:33.980609: Temp stable at 142.2°F over last 10 readings.
+2025-09-25 01:22:36 | WARNING | Consumer interrupted by user.
+2025-09-25 01:22:36 | INFO | Kafka consumer for topic 'smoker_csv' closed.
+2025-09-27 23:02:32 | INFO | Logging to file: logs/project_log.log
+2025-09-27 23:02:32 | INFO | Log sanitization enabled, personal info removed
+2025-09-27 23:02:32 | INFO | Project root: /home/USER/buzzline-04-mahi
+2025-09-27 23:02:32 | INFO | Data folder: /home/USER/buzzline-04-mahi/data
+2025-09-27 23:02:32 | INFO | Data file: /home/USER/buzzline-04-mahi/data/buzz_live.json
+2025-09-27 23:02:32 | INFO | START producer...
+2025-09-27 23:02:32 | INFO | Hit CTRL c (or CMD c) to close.
+2025-09-27 23:02:32 | INFO | Message interval: 3 seconds
+2025-09-27 23:02:32 | INFO | {'message': 'I just tried a trick! It was boring.', 'author': 'Bob'}
+2025-09-27 23:02:35 | INFO | {'message': 'I just tried a meme! It was weird.', 'author': 'Eve'}
+2025-09-27 23:02:38 | INFO | {'message': 'I just saw a movie! It was exciting.', 'author': 'Eve'}
+2025-09-27 23:02:41 | INFO | {'message': 'I just saw a story! It was amazing.', 'author': 'Eve'}
+2025-09-27 23:02:44 | INFO | {'message': 'I just saw an app! It was amazing.', 'author': 'Eve'}
+2025-09-27 23:02:46 | WARNING | Producer interrupted by user.
+2025-09-27 23:02:46 | INFO | Producer shutting down.
+2025-10-01 03:11:40 | INFO | Logging to file: logs/project_log.log
+2025-10-01 03:11:40 | INFO | Log sanitization enabled, personal info removed
+2025-10-01 03:11:40 | INFO | 🟢 Starting Medical Expenses Producer...
+2025-10-01 03:11:40 | INFO | ✅ Kafka connected at localhost:9092
+2025-10-01 03:11:40 | INFO | {'patient_id': 'P084', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Knee Replacement', 'cost': 9337.58, 'timestamp': '2025-10-01T07:11:40Z'}
+2025-10-01 03:11:40 | INFO | 📤 Sent to topic 'project_json'
+2025-10-01 03:11:45 | INFO | {'patient_id': 'P065', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Knee Replacement', 'cost': 11682.56, 'timestamp': '2025-10-01T07:11:45Z'}
+2025-10-01 03:11:45 | INFO | 📤 Sent to topic 'project_json'
+2025-10-01 03:11:50 | INFO | {'patient_id': 'P025', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Appendectomy', 'cost': 5689.22, 'timestamp': '2025-10-01T07:11:50Z'}
+2025-10-01 03:11:50 | INFO | 📤 Sent to topic 'project_json'
+2025-10-01 03:11:55 | WARNING | 🛑 Interrupted by user.
+2025-10-01 03:11:55 | INFO | Producer shut down.

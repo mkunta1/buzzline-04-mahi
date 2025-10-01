@@ -1,0 +1,3 @@
+{"patient_id": "P084", "hospital": "Sunrise Clinic", "department": "Surgery", "expense_type": "Knee Replacement", "cost": 9337.58, "timestamp": "2025-10-01T07:11:40Z"}
+{"patient_id": "P065", "hospital": "Sunrise Clinic", "department": "Surgery", "expense_type": "Knee Replacement", "cost": 11682.56, "timestamp": "2025-10-01T07:11:45Z"}
+{"patient_id": "P025", "hospital": "Sunrise Clinic", "department": "Surgery", "expense_type": "Appendectomy", "cost": 5689.22, "timestamp": "2025-10-01T07:11:50Z"}

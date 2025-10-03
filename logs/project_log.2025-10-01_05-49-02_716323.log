@@ -1,0 +1,388 @@
+2025-10-01 05:49:02 | INFO | {'patient_id': 'P054', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 82.17, 'timestamp': '2025-10-01T09:49:02Z'}
+2025-10-01 05:49:02 | INFO | 📤 Sent to topic 'project_json'
+2025-10-01 05:49:07 | INFO | {'patient_id': 'P007', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 952.83, 'timestamp': '2025-10-01T09:49:07Z'}
+2025-10-01 05:49:07 | INFO | 📤 Sent to topic 'project_json'
+2025-10-01 05:49:12 | INFO | {'patient_id': 'P019', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'Stress Test', 'cost': 423.15, 'timestamp': '2025-10-01T09:49:12Z'}
+2025-10-01 05:49:12 | INFO | 📤 Sent to topic 'project_json'
+2025-10-01 05:49:17 | INFO | {'patient_id': 'P077', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Appendectomy', 'cost': 4974.2, 'timestamp': '2025-10-01T09:49:17Z'}
+2025-10-01 05:49:17 | INFO | 📤 Sent to topic 'project_json'
+2025-10-01 05:49:22 | INFO | {'patient_id': 'P031', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 91.96, 'timestamp': '2025-10-01T09:49:22Z'}
+2025-10-01 05:49:22 | INFO | 📤 Sent to topic 'project_json'
+2025-10-01 05:49:27 | INFO | {'patient_id': 'P002', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'X-ray', 'cost': 139.97, 'timestamp': '2025-10-01T09:49:27Z'}
+2025-10-01 05:49:27 | INFO | 📤 Sent to topic 'project_json'
+2025-10-01 05:49:33 | INFO | {'patient_id': 'P035', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'ECG', 'cost': 363.76, 'timestamp': '2025-10-01T09:49:33Z'}
+2025-10-01 05:49:33 | INFO | 📤 Sent to topic 'project_json'
+2025-10-01 05:49:38 | INFO | {'patient_id': 'P063', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 95.53, 'timestamp': '2025-10-01T09:49:38Z'}
+2025-10-01 05:49:38 | INFO | 📤 Sent to topic 'project_json'
+2025-10-01 05:49:43 | INFO | {'patient_id': 'P054', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Knee Replacement', 'cost': 10704.29, 'timestamp': '2025-10-01T09:49:43Z'}
+2025-10-01 05:49:43 | INFO | 📤 Sent to topic 'project_json'
+2025-10-01 05:49:48 | INFO | {'patient_id': 'P073', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1402.56, 'timestamp': '2025-10-01T09:49:48Z'}
+2025-10-01 05:49:48 | INFO | 📤 Sent to topic 'project_json'
+2025-10-01 05:49:53 | INFO | {'patient_id': 'P060', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 880.2, 'timestamp': '2025-10-01T09:49:53Z'}
+2025-10-01 05:49:53 | INFO | 📤 Sent to topic 'project_json'
+2025-10-01 05:49:58 | INFO | {'patient_id': 'P026', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 126.01, 'timestamp': '2025-10-01T09:49:58Z'}
+2025-10-01 05:49:58 | INFO | 📤 Sent to topic 'project_json'
+2025-10-01 05:50:05 | INFO | {'patient_id': 'P080', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 60.95, 'timestamp': '2025-10-01T09:50:05Z'}
+2025-10-01 05:50:05 | INFO | 📤 Sent to topic 'project_json'
+2025-10-01 05:50:10 | INFO | {'patient_id': 'P029', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1105.79, 'timestamp': '2025-10-01T09:50:10Z'}
+2025-10-01 05:50:10 | INFO | 📤 Sent to topic 'project_json'
+2025-10-01 05:50:15 | INFO | {'patient_id': 'P032', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Knee Replacement', 'cost': 9260.68, 'timestamp': '2025-10-01T09:50:15Z'}
+2025-10-01 05:50:15 | INFO | 📤 Sent to topic 'project_json'
+2025-10-01 05:50:20 | INFO | {'patient_id': 'P047', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Knee Replacement', 'cost': 9173.04, 'timestamp': '2025-10-01T09:50:20Z'}
+2025-10-01 05:50:20 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:15:35 | INFO | Logging to file: logs/project_log.log
+2025-10-02 22:15:35 | INFO | Log sanitization enabled, personal info removed
+2025-10-02 22:15:35 | INFO | 🟢 Starting Medical Expenses Producer...
+2025-10-02 22:15:35 | INFO | ✅ Kafka connected at localhost:9092
+2025-10-02 22:15:35 | INFO | {'patient_id': 'P025', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1451.12, 'timestamp': '2025-10-03T02:15:35Z'}
+2025-10-02 22:15:35 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:15:40 | INFO | {'patient_id': 'P086', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 760.12, 'timestamp': '2025-10-03T02:15:40Z'}
+2025-10-02 22:15:40 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:15:45 | INFO | {'patient_id': 'P007', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 133.79, 'timestamp': '2025-10-03T02:15:45Z'}
+2025-10-02 22:15:45 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:15:50 | INFO | {'patient_id': 'P067', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 56.77, 'timestamp': '2025-10-03T02:15:50Z'}
+2025-10-02 22:15:50 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:15:55 | INFO | {'patient_id': 'P088', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 1138.04, 'timestamp': '2025-10-03T02:15:55Z'}
+2025-10-02 22:15:55 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:16:00 | INFO | {'patient_id': 'P083', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 78.89, 'timestamp': '2025-10-03T02:16:00Z'}
+2025-10-02 22:16:00 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:16:05 | INFO | {'patient_id': 'P075', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'Stress Test', 'cost': 312.28, 'timestamp': '2025-10-03T02:16:05Z'}
+2025-10-02 22:16:05 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:16:10 | INFO | {'patient_id': 'P014', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 51.69, 'timestamp': '2025-10-03T02:16:10Z'}
+2025-10-02 22:16:10 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:16:15 | INFO | {'patient_id': 'P061', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 817.23, 'timestamp': '2025-10-03T02:16:15Z'}
+2025-10-02 22:16:15 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:16:20 | INFO | {'patient_id': 'P014', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 141.91, 'timestamp': '2025-10-03T02:16:20Z'}
+2025-10-02 22:16:20 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:16:25 | INFO | {'patient_id': 'P017', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 916.44, 'timestamp': '2025-10-03T02:16:25Z'}
+2025-10-02 22:16:25 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:16:30 | INFO | {'patient_id': 'P057', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'ECG', 'cost': 393.84, 'timestamp': '2025-10-03T02:16:30Z'}
+2025-10-02 22:16:30 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:16:35 | INFO | {'patient_id': 'P089', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'Stress Test', 'cost': 589.3, 'timestamp': '2025-10-03T02:16:35Z'}
+2025-10-02 22:16:35 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:16:40 | INFO | {'patient_id': 'P077', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 1757.65, 'timestamp': '2025-10-03T02:16:40Z'}
+2025-10-02 22:16:40 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:16:45 | INFO | {'patient_id': 'P072', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 849.11, 'timestamp': '2025-10-03T02:16:45Z'}
+2025-10-02 22:16:45 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:16:50 | INFO | {'patient_id': 'P058', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 785.85, 'timestamp': '2025-10-03T02:16:50Z'}
+2025-10-02 22:16:50 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:16:55 | INFO | {'patient_id': 'P051', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Appendectomy', 'cost': 5022.17, 'timestamp': '2025-10-03T02:16:55Z'}
+2025-10-02 22:16:55 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:17:00 | INFO | {'patient_id': 'P069', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Appendectomy', 'cost': 5904.49, 'timestamp': '2025-10-03T02:17:00Z'}
+2025-10-02 22:17:00 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:17:05 | INFO | {'patient_id': 'P049', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'X-ray', 'cost': 105.88, 'timestamp': '2025-10-03T02:17:05Z'}
+2025-10-02 22:17:05 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:17:10 | INFO | {'patient_id': 'P003', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1193.34, 'timestamp': '2025-10-03T02:17:10Z'}
+2025-10-02 22:17:10 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:17:15 | INFO | {'patient_id': 'P044', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 837.84, 'timestamp': '2025-10-03T02:17:15Z'}
+2025-10-02 22:17:15 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:17:20 | INFO | {'patient_id': 'P093', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 1132.18, 'timestamp': '2025-10-03T02:17:20Z'}
+2025-10-02 22:17:20 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:17:25 | INFO | {'patient_id': 'P021', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 137.79, 'timestamp': '2025-10-03T02:17:25Z'}
+2025-10-02 22:17:25 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:17:30 | INFO | {'patient_id': 'P041', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1081.14, 'timestamp': '2025-10-03T02:17:30Z'}
+2025-10-02 22:17:30 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:17:35 | INFO | {'patient_id': 'P037', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 742.36, 'timestamp': '2025-10-03T02:17:35Z'}
+2025-10-02 22:17:35 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:17:40 | INFO | {'patient_id': 'P096', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'Stress Test', 'cost': 502.22, 'timestamp': '2025-10-03T02:17:40Z'}
+2025-10-02 22:17:40 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:17:45 | INFO | {'patient_id': 'P059', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 1316.88, 'timestamp': '2025-10-03T02:17:45Z'}
+2025-10-02 22:17:45 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:17:50 | INFO | {'patient_id': 'P086', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'X-ray', 'cost': 112.21, 'timestamp': '2025-10-03T02:17:50Z'}
+2025-10-02 22:17:50 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:17:55 | INFO | {'patient_id': 'P093', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1165.24, 'timestamp': '2025-10-03T02:17:55Z'}
+2025-10-02 22:17:55 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:18:00 | INFO | {'patient_id': 'P098', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Knee Replacement', 'cost': 11155.82, 'timestamp': '2025-10-03T02:18:00Z'}
+2025-10-02 22:18:00 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:18:05 | INFO | {'patient_id': 'P054', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1355.02, 'timestamp': '2025-10-03T02:18:05Z'}
+2025-10-02 22:18:05 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:18:10 | INFO | {'patient_id': 'P044', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 95.2, 'timestamp': '2025-10-03T02:18:10Z'}
+2025-10-02 22:18:10 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:18:15 | INFO | {'patient_id': 'P050', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 573.47, 'timestamp': '2025-10-03T02:18:15Z'}
+2025-10-02 22:18:15 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:18:20 | INFO | {'patient_id': 'P022', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 148.33, 'timestamp': '2025-10-03T02:18:20Z'}
+2025-10-02 22:18:20 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:18:25 | INFO | {'patient_id': 'P054', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 887.59, 'timestamp': '2025-10-03T02:18:25Z'}
+2025-10-02 22:18:25 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:18:30 | INFO | {'patient_id': 'P072', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 66.33, 'timestamp': '2025-10-03T02:18:30Z'}
+2025-10-02 22:18:30 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:18:35 | INFO | {'patient_id': 'P075', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 882.53, 'timestamp': '2025-10-03T02:18:35Z'}
+2025-10-02 22:18:35 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:18:40 | INFO | {'patient_id': 'P013', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 786.84, 'timestamp': '2025-10-03T02:18:40Z'}
+2025-10-02 22:18:40 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:18:45 | INFO | {'patient_id': 'P091', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 986.71, 'timestamp': '2025-10-03T02:18:45Z'}
+2025-10-02 22:18:45 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:18:50 | INFO | {'patient_id': 'P059', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 68.45, 'timestamp': '2025-10-03T02:18:50Z'}
+2025-10-02 22:18:50 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:18:55 | INFO | {'patient_id': 'P061', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Appendectomy', 'cost': 4236.53, 'timestamp': '2025-10-03T02:18:55Z'}
+2025-10-02 22:18:55 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:19:00 | INFO | {'patient_id': 'P072', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1276.77, 'timestamp': '2025-10-03T02:19:00Z'}
+2025-10-02 22:19:00 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:19:05 | INFO | {'patient_id': 'P098', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 915.94, 'timestamp': '2025-10-03T02:19:05Z'}
+2025-10-02 22:19:05 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:19:10 | INFO | {'patient_id': 'P042', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 710.86, 'timestamp': '2025-10-03T02:19:10Z'}
+2025-10-02 22:19:10 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:19:15 | INFO | {'patient_id': 'P086', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1119.87, 'timestamp': '2025-10-03T02:19:15Z'}
+2025-10-02 22:19:15 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:19:20 | INFO | {'patient_id': 'P059', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 59.97, 'timestamp': '2025-10-03T02:19:20Z'}
+2025-10-02 22:19:20 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:19:25 | INFO | {'patient_id': 'P025', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 1959.07, 'timestamp': '2025-10-03T02:19:25Z'}
+2025-10-02 22:19:25 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:19:30 | INFO | {'patient_id': 'P081', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 98.16, 'timestamp': '2025-10-03T02:19:30Z'}
+2025-10-02 22:19:30 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:19:35 | INFO | {'patient_id': 'P035', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'ECG', 'cost': 351.15, 'timestamp': '2025-10-03T02:19:35Z'}
+2025-10-02 22:19:35 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:19:40 | INFO | {'patient_id': 'P053', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'X-ray', 'cost': 211.1, 'timestamp': '2025-10-03T02:19:40Z'}
+2025-10-02 22:19:40 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:19:45 | INFO | {'patient_id': 'P086', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 1697.09, 'timestamp': '2025-10-03T02:19:45Z'}
+2025-10-02 22:19:45 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:19:50 | INFO | {'patient_id': 'P054', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 69.74, 'timestamp': '2025-10-03T02:19:50Z'}
+2025-10-02 22:19:50 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:19:55 | INFO | {'patient_id': 'P002', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'ECG', 'cost': 219.71, 'timestamp': '2025-10-03T02:19:55Z'}
+2025-10-02 22:19:55 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:20:00 | INFO | {'patient_id': 'P012', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 54.63, 'timestamp': '2025-10-03T02:20:00Z'}
+2025-10-02 22:20:00 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:20:05 | INFO | {'patient_id': 'P046', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'ECG', 'cost': 370.81, 'timestamp': '2025-10-03T02:20:05Z'}
+2025-10-02 22:20:05 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:20:10 | INFO | {'patient_id': 'P080', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1022.04, 'timestamp': '2025-10-03T02:20:10Z'}
+2025-10-02 22:20:10 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:20:15 | INFO | {'patient_id': 'P064', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'ECG', 'cost': 360.69, 'timestamp': '2025-10-03T02:20:15Z'}
+2025-10-02 22:20:15 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:20:20 | INFO | {'patient_id': 'P059', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'ECG', 'cost': 391.54, 'timestamp': '2025-10-03T02:20:20Z'}
+2025-10-02 22:20:20 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:20:25 | INFO | {'patient_id': 'P091', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Knee Replacement', 'cost': 10943.19, 'timestamp': '2025-10-03T02:20:25Z'}
+2025-10-02 22:20:25 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:20:30 | INFO | {'patient_id': 'P067', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'ECG', 'cost': 283.58, 'timestamp': '2025-10-03T02:20:30Z'}
+2025-10-02 22:20:30 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:20:35 | INFO | {'patient_id': 'P050', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 763.99, 'timestamp': '2025-10-03T02:20:35Z'}
+2025-10-02 22:20:35 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:20:40 | INFO | {'patient_id': 'P086', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 1568.17, 'timestamp': '2025-10-03T02:20:40Z'}
+2025-10-02 22:20:40 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:20:45 | INFO | {'patient_id': 'P023', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 711.64, 'timestamp': '2025-10-03T02:20:45Z'}
+2025-10-02 22:20:45 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:20:50 | INFO | {'patient_id': 'P085', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Knee Replacement', 'cost': 11692.06, 'timestamp': '2025-10-03T02:20:50Z'}
+2025-10-02 22:20:50 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:20:55 | INFO | {'patient_id': 'P025', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 707.76, 'timestamp': '2025-10-03T02:20:55Z'}
+2025-10-02 22:20:55 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:21:00 | INFO | {'patient_id': 'P051', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 1553.42, 'timestamp': '2025-10-03T02:21:00Z'}
+2025-10-02 22:21:00 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:21:05 | INFO | {'patient_id': 'P066', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'ECG', 'cost': 239.71, 'timestamp': '2025-10-03T02:21:05Z'}
+2025-10-02 22:21:05 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:21:10 | INFO | {'patient_id': 'P081', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Knee Replacement', 'cost': 8883.97, 'timestamp': '2025-10-03T02:21:10Z'}
+2025-10-02 22:21:10 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:21:15 | INFO | {'patient_id': 'P048', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1302.49, 'timestamp': '2025-10-03T02:21:15Z'}
+2025-10-02 22:21:15 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:21:20 | INFO | {'patient_id': 'P043', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 144.61, 'timestamp': '2025-10-03T02:21:20Z'}
+2025-10-02 22:21:20 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:21:25 | INFO | {'patient_id': 'P017', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'ECG', 'cost': 399.92, 'timestamp': '2025-10-03T02:21:25Z'}
+2025-10-02 22:21:25 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:21:30 | INFO | {'patient_id': 'P041', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1431.89, 'timestamp': '2025-10-03T02:21:30Z'}
+2025-10-02 22:21:30 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:21:35 | INFO | {'patient_id': 'P076', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 882.15, 'timestamp': '2025-10-03T02:21:35Z'}
+2025-10-02 22:21:35 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:21:40 | INFO | {'patient_id': 'P081', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 110.32, 'timestamp': '2025-10-03T02:21:40Z'}
+2025-10-02 22:21:40 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:21:45 | INFO | {'patient_id': 'P034', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1158.68, 'timestamp': '2025-10-03T02:21:45Z'}
+2025-10-02 22:21:45 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:21:50 | INFO | {'patient_id': 'P032', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'X-ray', 'cost': 267.98, 'timestamp': '2025-10-03T02:21:50Z'}
+2025-10-02 22:21:50 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:21:55 | INFO | {'patient_id': 'P076', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 75.72, 'timestamp': '2025-10-03T02:21:55Z'}
+2025-10-02 22:21:55 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:22:00 | INFO | {'patient_id': 'P028', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 135.47, 'timestamp': '2025-10-03T02:22:00Z'}
+2025-10-02 22:22:00 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:22:05 | INFO | {'patient_id': 'P091', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 69.52, 'timestamp': '2025-10-03T02:22:05Z'}
+2025-10-02 22:22:05 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:22:10 | INFO | {'patient_id': 'P011', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Appendectomy', 'cost': 5904.01, 'timestamp': '2025-10-03T02:22:10Z'}
+2025-10-02 22:22:10 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:22:15 | INFO | {'patient_id': 'P028', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1403.52, 'timestamp': '2025-10-03T02:22:15Z'}
+2025-10-02 22:22:15 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:22:20 | INFO | {'patient_id': 'P074', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Knee Replacement', 'cost': 8421.31, 'timestamp': '2025-10-03T02:22:20Z'}
+2025-10-02 22:22:20 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:22:25 | INFO | {'patient_id': 'P080', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 963.93, 'timestamp': '2025-10-03T02:22:25Z'}
+2025-10-02 22:22:25 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:22:30 | INFO | {'patient_id': 'P060', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 924.46, 'timestamp': '2025-10-03T02:22:30Z'}
+2025-10-02 22:22:30 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:22:35 | INFO | {'patient_id': 'P042', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1318.36, 'timestamp': '2025-10-03T02:22:35Z'}
+2025-10-02 22:22:35 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:22:40 | INFO | {'patient_id': 'P100', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 92.97, 'timestamp': '2025-10-03T02:22:40Z'}
+2025-10-02 22:22:40 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:22:45 | INFO | {'patient_id': 'P049', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Appendectomy', 'cost': 4716.08, 'timestamp': '2025-10-03T02:22:45Z'}
+2025-10-02 22:22:45 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:22:50 | INFO | {'patient_id': 'P040', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1327.6, 'timestamp': '2025-10-03T02:22:50Z'}
+2025-10-02 22:22:50 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:22:55 | INFO | {'patient_id': 'P078', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'X-ray', 'cost': 221.15, 'timestamp': '2025-10-03T02:22:55Z'}
+2025-10-02 22:22:55 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:23:00 | INFO | {'patient_id': 'P072', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 996.03, 'timestamp': '2025-10-03T02:23:00Z'}
+2025-10-02 22:23:00 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:23:05 | INFO | {'patient_id': 'P021', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 1709.07, 'timestamp': '2025-10-03T02:23:05Z'}
+2025-10-02 22:23:05 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:23:10 | INFO | {'patient_id': 'P089', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 790.27, 'timestamp': '2025-10-03T02:23:10Z'}
+2025-10-02 22:23:10 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:23:15 | INFO | {'patient_id': 'P009', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Appendectomy', 'cost': 4095.55, 'timestamp': '2025-10-03T02:23:15Z'}
+2025-10-02 22:23:15 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:23:20 | INFO | {'patient_id': 'P024', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 123.19, 'timestamp': '2025-10-03T02:23:20Z'}
+2025-10-02 22:23:20 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:23:25 | INFO | {'patient_id': 'P098', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 129.6, 'timestamp': '2025-10-03T02:23:25Z'}
+2025-10-02 22:23:25 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:23:30 | INFO | {'patient_id': 'P065', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 810.3, 'timestamp': '2025-10-03T02:23:30Z'}
+2025-10-02 22:23:30 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:23:35 | INFO | {'patient_id': 'P029', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 1866.11, 'timestamp': '2025-10-03T02:23:35Z'}
+2025-10-02 22:23:35 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:23:40 | INFO | {'patient_id': 'P099', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 56.63, 'timestamp': '2025-10-03T02:23:40Z'}
+2025-10-02 22:23:40 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:23:45 | INFO | {'patient_id': 'P073', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 1206.53, 'timestamp': '2025-10-03T02:23:45Z'}
+2025-10-02 22:23:45 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:23:50 | INFO | {'patient_id': 'P073', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 87.56, 'timestamp': '2025-10-03T02:23:50Z'}
+2025-10-02 22:23:50 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:23:55 | INFO | {'patient_id': 'P012', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 799.96, 'timestamp': '2025-10-03T02:23:55Z'}
+2025-10-02 22:23:55 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:24:00 | INFO | {'patient_id': 'P013', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1132.25, 'timestamp': '2025-10-03T02:24:00Z'}
+2025-10-02 22:24:00 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:24:05 | INFO | {'patient_id': 'P016', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 63.82, 'timestamp': '2025-10-03T02:24:05Z'}
+2025-10-02 22:24:05 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:24:10 | INFO | {'patient_id': 'P055', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 808.33, 'timestamp': '2025-10-03T02:24:10Z'}
+2025-10-02 22:24:10 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:24:15 | INFO | {'patient_id': 'P045', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 846.15, 'timestamp': '2025-10-03T02:24:15Z'}
+2025-10-02 22:24:15 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:24:20 | INFO | {'patient_id': 'P008', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 1767.86, 'timestamp': '2025-10-03T02:24:20Z'}
+2025-10-02 22:24:20 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:24:25 | INFO | {'patient_id': 'P058', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Knee Replacement', 'cost': 11823.49, 'timestamp': '2025-10-03T02:24:25Z'}
+2025-10-02 22:24:25 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:24:30 | INFO | {'patient_id': 'P086', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 62.16, 'timestamp': '2025-10-03T02:24:30Z'}
+2025-10-02 22:24:30 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:24:35 | INFO | {'patient_id': 'P046', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 86.85, 'timestamp': '2025-10-03T02:24:35Z'}
+2025-10-02 22:24:35 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:24:40 | INFO | {'patient_id': 'P078', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 732.12, 'timestamp': '2025-10-03T02:24:40Z'}
+2025-10-02 22:24:40 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:24:45 | INFO | {'patient_id': 'P020', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 782.34, 'timestamp': '2025-10-03T02:24:45Z'}
+2025-10-02 22:24:45 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:24:50 | INFO | {'patient_id': 'P007', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'ECG', 'cost': 240.66, 'timestamp': '2025-10-03T02:24:50Z'}
+2025-10-02 22:24:50 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:24:55 | INFO | {'patient_id': 'P032', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 63.0, 'timestamp': '2025-10-03T02:24:55Z'}
+2025-10-02 22:24:55 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:25:00 | INFO | {'patient_id': 'P100', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 56.06, 'timestamp': '2025-10-03T02:25:00Z'}
+2025-10-02 22:25:00 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:25:05 | INFO | {'patient_id': 'P098', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 783.36, 'timestamp': '2025-10-03T02:25:05Z'}
+2025-10-02 22:25:05 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:25:10 | INFO | {'patient_id': 'P012', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 89.58, 'timestamp': '2025-10-03T02:25:10Z'}
+2025-10-02 22:25:10 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:25:15 | INFO | {'patient_id': 'P013', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 1050.9, 'timestamp': '2025-10-03T02:25:15Z'}
+2025-10-02 22:25:15 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:25:20 | INFO | {'patient_id': 'P005', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 942.67, 'timestamp': '2025-10-03T02:25:20Z'}
+2025-10-02 22:25:20 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:25:25 | INFO | {'patient_id': 'P006', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 99.58, 'timestamp': '2025-10-03T02:25:25Z'}
+2025-10-02 22:25:25 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:25:30 | INFO | {'patient_id': 'P095', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'X-ray', 'cost': 278.75, 'timestamp': '2025-10-03T02:25:30Z'}
+2025-10-02 22:25:30 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:25:35 | INFO | {'patient_id': 'P054', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Appendectomy', 'cost': 5981.07, 'timestamp': '2025-10-03T02:25:35Z'}
+2025-10-02 22:25:35 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:25:40 | INFO | {'patient_id': 'P014', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 811.88, 'timestamp': '2025-10-03T02:25:40Z'}
+2025-10-02 22:25:40 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:25:45 | INFO | {'patient_id': 'P019', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'X-ray', 'cost': 199.85, 'timestamp': '2025-10-03T02:25:45Z'}
+2025-10-02 22:25:45 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:25:50 | INFO | {'patient_id': 'P045', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'Stress Test', 'cost': 387.82, 'timestamp': '2025-10-03T02:25:50Z'}
+2025-10-02 22:25:50 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:25:55 | INFO | {'patient_id': 'P099', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'ECG', 'cost': 270.32, 'timestamp': '2025-10-03T02:25:55Z'}
+2025-10-02 22:25:55 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:26:00 | INFO | {'patient_id': 'P097', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 904.09, 'timestamp': '2025-10-03T02:26:00Z'}
+2025-10-02 22:26:00 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:26:05 | INFO | {'patient_id': 'P077', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 733.13, 'timestamp': '2025-10-03T02:26:05Z'}
+2025-10-02 22:26:05 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:26:10 | INFO | {'patient_id': 'P075', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'X-ray', 'cost': 287.84, 'timestamp': '2025-10-03T02:26:10Z'}
+2025-10-02 22:26:10 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:26:15 | INFO | {'patient_id': 'P040', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1357.73, 'timestamp': '2025-10-03T02:26:15Z'}
+2025-10-02 22:26:15 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:26:20 | INFO | {'patient_id': 'P012', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 135.95, 'timestamp': '2025-10-03T02:26:20Z'}
+2025-10-02 22:26:20 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:26:25 | INFO | {'patient_id': 'P055', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Appendectomy', 'cost': 5140.35, 'timestamp': '2025-10-03T02:26:25Z'}
+2025-10-02 22:26:25 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:26:30 | INFO | {'patient_id': 'P023', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 108.8, 'timestamp': '2025-10-03T02:26:30Z'}
+2025-10-02 22:26:30 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:26:35 | INFO | {'patient_id': 'P049', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 795.15, 'timestamp': '2025-10-03T02:26:35Z'}
+2025-10-02 22:26:35 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:26:40 | INFO | {'patient_id': 'P097', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 76.2, 'timestamp': '2025-10-03T02:26:40Z'}
+2025-10-02 22:26:40 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:26:45 | INFO | {'patient_id': 'P034', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 1967.0, 'timestamp': '2025-10-03T02:26:45Z'}
+2025-10-02 22:26:45 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:26:50 | INFO | {'patient_id': 'P023', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1207.29, 'timestamp': '2025-10-03T02:26:50Z'}
+2025-10-02 22:26:50 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:26:55 | INFO | {'patient_id': 'P008', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1286.19, 'timestamp': '2025-10-03T02:26:55Z'}
+2025-10-02 22:26:55 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:27:01 | INFO | {'patient_id': 'P046', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'Stress Test', 'cost': 517.1, 'timestamp': '2025-10-03T02:27:01Z'}
+2025-10-02 22:27:01 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:27:06 | INFO | {'patient_id': 'P064', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Appendectomy', 'cost': 4173.72, 'timestamp': '2025-10-03T02:27:06Z'}
+2025-10-02 22:27:06 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:27:11 | INFO | {'patient_id': 'P054', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1254.08, 'timestamp': '2025-10-03T02:27:11Z'}
+2025-10-02 22:27:11 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:27:16 | INFO | {'patient_id': 'P079', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 1141.43, 'timestamp': '2025-10-03T02:27:16Z'}
+2025-10-02 22:27:16 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:27:21 | INFO | {'patient_id': 'P077', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 130.23, 'timestamp': '2025-10-03T02:27:21Z'}
+2025-10-02 22:27:21 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:27:26 | INFO | {'patient_id': 'P096', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1086.52, 'timestamp': '2025-10-03T02:27:26Z'}
+2025-10-02 22:27:26 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:27:31 | INFO | {'patient_id': 'P041', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 77.78, 'timestamp': '2025-10-03T02:27:31Z'}
+2025-10-02 22:27:31 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:27:36 | INFO | {'patient_id': 'P057', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 964.64, 'timestamp': '2025-10-03T02:27:36Z'}
+2025-10-02 22:27:36 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:27:41 | INFO | {'patient_id': 'P056', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 81.21, 'timestamp': '2025-10-03T02:27:41Z'}
+2025-10-02 22:27:41 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:27:46 | INFO | {'patient_id': 'P092', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 72.88, 'timestamp': '2025-10-03T02:27:46Z'}
+2025-10-02 22:27:46 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:27:51 | INFO | {'patient_id': 'P098', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'Stress Test', 'cost': 520.0, 'timestamp': '2025-10-03T02:27:51Z'}
+2025-10-02 22:27:51 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:27:56 | INFO | {'patient_id': 'P040', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'ECG', 'cost': 354.87, 'timestamp': '2025-10-03T02:27:56Z'}
+2025-10-02 22:27:56 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:28:01 | INFO | {'patient_id': 'P047', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'X-ray', 'cost': 188.94, 'timestamp': '2025-10-03T02:28:01Z'}
+2025-10-02 22:28:01 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:28:06 | INFO | {'patient_id': 'P076', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'Stress Test', 'cost': 442.41, 'timestamp': '2025-10-03T02:28:06Z'}
+2025-10-02 22:28:06 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:28:11 | INFO | {'patient_id': 'P038', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 787.84, 'timestamp': '2025-10-03T02:28:11Z'}
+2025-10-02 22:28:11 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:28:16 | INFO | {'patient_id': 'P049', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Appendectomy', 'cost': 4398.16, 'timestamp': '2025-10-03T02:28:16Z'}
+2025-10-02 22:28:16 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:28:21 | INFO | {'patient_id': 'P039', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'X-ray', 'cost': 114.9, 'timestamp': '2025-10-03T02:28:21Z'}
+2025-10-02 22:28:21 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:28:26 | INFO | {'patient_id': 'P095', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 1178.27, 'timestamp': '2025-10-03T02:28:26Z'}
+2025-10-02 22:28:26 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:28:31 | INFO | {'patient_id': 'P084', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'Stress Test', 'cost': 507.15, 'timestamp': '2025-10-03T02:28:31Z'}
+2025-10-02 22:28:31 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:28:36 | INFO | {'patient_id': 'P076', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 812.71, 'timestamp': '2025-10-03T02:28:36Z'}
+2025-10-02 22:28:36 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:28:41 | INFO | {'patient_id': 'P056', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 1846.89, 'timestamp': '2025-10-03T02:28:41Z'}
+2025-10-02 22:28:41 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:28:46 | INFO | {'patient_id': 'P080', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'ECG', 'cost': 322.38, 'timestamp': '2025-10-03T02:28:46Z'}
+2025-10-02 22:28:46 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:28:51 | INFO | {'patient_id': 'P034', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 782.06, 'timestamp': '2025-10-03T02:28:51Z'}
+2025-10-02 22:28:51 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:28:56 | INFO | {'patient_id': 'P037', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1063.5, 'timestamp': '2025-10-03T02:28:56Z'}
+2025-10-02 22:28:56 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:29:01 | INFO | {'patient_id': 'P076', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'X-ray', 'cost': 108.21, 'timestamp': '2025-10-03T02:29:01Z'}
+2025-10-02 22:29:01 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:29:06 | INFO | {'patient_id': 'P023', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 63.18, 'timestamp': '2025-10-03T02:29:06Z'}
+2025-10-02 22:29:06 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:29:11 | INFO | {'patient_id': 'P063', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 1408.87, 'timestamp': '2025-10-03T02:29:11Z'}
+2025-10-02 22:29:11 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:29:16 | INFO | {'patient_id': 'P044', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 100.23, 'timestamp': '2025-10-03T02:29:16Z'}
+2025-10-02 22:29:16 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:29:21 | INFO | {'patient_id': 'P073', 'hospital': 'Sunrise Clinic', 'department': 'Surgery', 'expense_type': 'Knee Replacement', 'cost': 9593.17, 'timestamp': '2025-10-03T02:29:21Z'}
+2025-10-02 22:29:21 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:29:26 | INFO | {'patient_id': 'P043', 'hospital': 'Sunrise Clinic', 'department': 'Cardiology', 'expense_type': 'Stress Test', 'cost': 474.16, 'timestamp': '2025-10-03T02:29:26Z'}
+2025-10-02 22:29:26 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:29:31 | INFO | {'patient_id': 'P061', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 798.36, 'timestamp': '2025-10-03T02:29:31Z'}
+2025-10-02 22:29:31 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:29:36 | INFO | {'patient_id': 'P067', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'X-ray', 'cost': 281.76, 'timestamp': '2025-10-03T02:29:36Z'}
+2025-10-02 22:29:36 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:29:41 | INFO | {'patient_id': 'P022', 'hospital': 'Green Valley Hospital', 'department': 'Radiology', 'expense_type': 'MRI', 'cost': 1486.58, 'timestamp': '2025-10-03T02:29:41Z'}
+2025-10-02 22:29:41 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:29:46 | INFO | {'patient_id': 'P050', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 863.88, 'timestamp': '2025-10-03T02:29:46Z'}
+2025-10-02 22:29:46 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:29:51 | INFO | {'patient_id': 'P006', 'hospital': 'Green Valley Hospital', 'department': 'Emergency', 'expense_type': 'ER Visit', 'cost': 779.14, 'timestamp': '2025-10-03T02:29:51Z'}
+2025-10-02 22:29:51 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:29:56 | INFO | {'patient_id': 'P009', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 744.43, 'timestamp': '2025-10-03T02:29:56Z'}
+2025-10-02 22:29:56 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:30:01 | INFO | {'patient_id': 'P016', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 116.59, 'timestamp': '2025-10-03T02:30:01Z'}
+2025-10-02 22:30:01 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:30:06 | INFO | {'patient_id': 'P081', 'hospital': 'Green Valley Hospital', 'department': 'Orthopedics', 'expense_type': 'Fracture Treatment', 'cost': 749.8, 'timestamp': '2025-10-03T02:30:06Z'}
+2025-10-02 22:30:06 | INFO | 📤 Sent to topic 'project_json'
+2025-10-02 22:30:11 | INFO | {'patient_id': 'P002', 'hospital': 'Sunrise Clinic', 'department': 'Pediatrics', 'expense_type': 'Vaccination', 'cost': 84.26, 'timestamp': '2025-10-03T02:30:11Z'}
+2025-10-02 22:30:11 | INFO | 📤 Sent to topic 'project_json'
